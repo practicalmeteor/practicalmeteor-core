@@ -7,6 +7,7 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
+  api.versionsFrom('0.9.3');
   api.use(["practicalmeteor:loglevel@1.2.0_2", "practicalmeteor:chai@2.1.0_1"]);
   api.imply(["practicalmeteor:loglevel@1.2.0_2", "practicalmeteor:chai@2.1.0_1", "coffeescript"]);
   api.addFiles('practical.js');
