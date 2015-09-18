@@ -1,0 +1,7 @@
+coffeescript@1.0.6
+local-test:practicalmeteor:core@0.0.1
+meteor@1.1.6
+practicalmeteor:chai@2.1.0_1
+practicalmeteor:core@0.0.1
+practicalmeteor:loglevel@1.2.0_2
+underscore@1.0.3
