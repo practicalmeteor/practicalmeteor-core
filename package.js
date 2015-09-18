@@ -1,7 +1,7 @@
 Package.describe({
   name: 'practicalmeteor:core',
   version: '0.0.1',
-  summary: '',
+  summary: 'Basic packages for practical meteor packages',
   git: 'https://github.com/practicalmeteor/practicalmeteor-core.git',
   documentation: 'README.md'
 });
